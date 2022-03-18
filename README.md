@@ -4,6 +4,8 @@
 
 Just random design, partially copying VS Code terminal default colors
 
+![hY-term palette](hY-term.png "hY-term palette")
+
 ## Installation
 
 1. Clone the repo via 
