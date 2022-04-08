@@ -2,7 +2,7 @@
 
 ## Overview
 
-Just random design, partially copying VS Code terminal default colors
+Just another macOS Terminal/Iterm2 design, partially copying VS Code terminal default colors
 
 ![hY-term palette](hY-term.png "hY-term palette")
 
